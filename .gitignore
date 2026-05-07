@@ -1,6 +1,10 @@
 node_modules
+<<<<<<< HEAD
 .env
 dist
 build
 coverage
 .DS_Store
+=======
+.env
+>>>>>>> a532a53 (Initial commit)
